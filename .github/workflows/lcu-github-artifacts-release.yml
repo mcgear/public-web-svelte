@@ -1,4 +1,4 @@
-name: mcgear/public-web-svelte
+name: mcgear - $public-web-svelte
 
 on:
   push:
